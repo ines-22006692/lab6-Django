@@ -15,4 +15,4 @@ def page_one_view(request):
 
 
 def page_two_view(request):
-    return render(request, 'website/page1.html')
+    return render(request, 'website/page2.html')
